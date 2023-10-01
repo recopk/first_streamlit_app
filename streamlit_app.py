@@ -1,5 +1,6 @@
 import streamlit
 streamlit.title('My parents new healthy menu')
-streamlit.title('Omega 3 & Oatmeal')
-streamlit.title('hard boiled free range egg')
-streamlit.title('best healthy drinks made with yougurt')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Oatmeal')
+streamlit.text('hard boiled free range egg')
+streamlit.text('best healthy drinks made with yougurt')
