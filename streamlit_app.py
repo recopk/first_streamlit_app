@@ -4,4 +4,4 @@ streamlit.header('🍞 Breakfast Menu')
 streamlit.text('🥑 Omega 3 & Oatmeal')
 streamlit.text('🐔 hard boiled free range egg')
 streamlit.text('🥗 best healthy drinks made with yougurt')
-   
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
