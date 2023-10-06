@@ -1,4 +1,4 @@
-#from urllib.error import URLerror
+from urllib.error import URLerror
 import streamlit
 streamlit.title('🥣 My parents new healthy menu')
 streamlit.header('🍞 Breakfast Menu')
